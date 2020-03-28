@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="106" started-at="2020-03-28T16:24:44Z" finished-at="2020-03-28T16:24:45Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="106" started-at="2020-03-28T16:24:44Z" finished-at="2020-03-28T16:24:45Z">
+      <class name="com.nackademin.teau.lectures_demo_calculator.CalculatorTest">
+        <test-method status="PASS" signature="testAddition()[pri:0, instance:testAddition(com.nackademin.teau.lectures_demo_calculator.CalculatorTest)]" name="testAddition" duration-ms="20" started-at="2020-03-28T17:24:45Z" finished-at="2020-03-28T17:24:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddition -->
+        <test-method status="PASS" signature="testSubtraction()[pri:0, instance:testSubtraction(com.nackademin.teau.lectures_demo_calculator.CalculatorTest)]" name="testSubtraction" duration-ms="1" started-at="2020-03-28T17:24:45Z" finished-at="2020-03-28T17:24:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubtraction -->
+      </class> <!-- com.nackademin.teau.lectures_demo_calculator.CalculatorTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
